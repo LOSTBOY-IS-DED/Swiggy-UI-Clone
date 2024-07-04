@@ -1,8 +1,42 @@
-# React + Vite
+# 🍽️ Swiggy Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Swiggy Clone project! This is a full-stack application built using Node.js for the backend and React.js for the frontend. The application mimics the core functionalities of the Swiggy food delivery service.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+
+
+# Project Setup
+
+Follow these steps to set up the project on your local machine.
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/swiggy-clone.git
+
+2. Install the dependencies for frontend:
+
+    ```sh
+    cd My-swiggy-project
+    npm install
+
+3. Install the dependencies for the backend:
+   
+   ```sh
+   cd ../swiggy-app
+   npm install
+
+4. Start the development servers 
+   ```sh
+   <!-- # In the My-swiggy-project directory -->
+    npm start
+    <!-- # In the swiggy-app directory -->
+    npm run dev
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
