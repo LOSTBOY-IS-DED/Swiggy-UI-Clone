@@ -10,11 +10,6 @@ Welcome to the Swiggy Clone project! This is a full-stack application built usin
 ### Restaurant Listings
 ![Restaurant Listings](./ss2.png)
 
-## 📹 Screen Recording
-
-Check out the screen recording to see the application in action!
-
-![Screen Recording](./screen.mov)
 
 ## 🛠️ Tech Stack
 
